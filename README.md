@@ -1,14 +1,30 @@
+## Student Name: DADA FERANMI 
+## Matric No: 25/17276
+## Level: 200
+## Dept: COMPUTER SCIENCE
 
-Student Name: Dada Feranmi.
+# COS 201 - Week 3 Practical
 
-Matriculation Number: 25/17276.
+## Course
+Computer Programming I
 
-Programme: computer science.
+## Topics
+- Variables
+- Data Types
+- Expressions
+- Input and Output
 
-Assignment: Development Environment and First Java Program
+## Programs
+1. SimpleCalculator.java
+2. AverageCalculator.java
+3. ItemCost.java
 
-GitHub Repository: [Paste your actual repository URL here]
+## How to Run
 
-I have included my Java source code and README documentation in the repository. I have also compiled and executed the program to verify the output.
+Compile:
+javac SimpleCalculator.java
 
-Thank you.
+Run:
+java SimpleCalculator
+
+Repeat the process for the other programs.
